@@ -1,4 +1,7 @@
 # Diabetes Prediction Using Machine Learning and Biomedical Data Analysis
+## View Full Project Report
+
+[Open Diabetes Prediction Report](https://thushjanthan220720000.github.io/2020-ASP-78/Diabetes_Prediction_Report.html)
 
 ## 1. Project Overview
 
